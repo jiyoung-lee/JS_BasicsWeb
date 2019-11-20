@@ -9,4 +9,4 @@
 - Clock
 - To Do List
 - Weather
-- Daily Photo``
+- Daily Photo
