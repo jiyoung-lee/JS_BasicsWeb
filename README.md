@@ -10,3 +10,5 @@
 - To Do List
 - Weather
 - Daily Photo
+
+https://jiyoung-lee.github.io/JS_BasicsWeb/.
